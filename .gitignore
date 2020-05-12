@@ -1,0 +1,8 @@
+## 忽略所有文件
+*
+
+## 不忽略 .gitignore
+!.gitignore
+
+## 不忽略 *.tex
+!*.tex
